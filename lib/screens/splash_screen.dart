@@ -71,6 +71,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
 
   @override
   Widget build(BuildContext context) {
+    // Pantalla de presentación animada (SplashScreen) con logo y fondo dividido
     return Scaffold(
       backgroundColor: const Color(0xFF1E1E1E),
       body: AnimatedBuilder(
