@@ -21,7 +21,7 @@
 
 ## 📱 Demo instalable
 
-[![Download APK](https://img.shields.io/badge/Descargar%20APK-v1.0.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/JesusSal911/app_prueba/releases/download/v1.0.0/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Descargar%20APK-v1.0.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/JesusSal911/app_prueba/releases/tag/v1.0.1/app-release.apk)
 > **Nota**: Requiere Android 8.0+ (Oreo) o superior.
 ## ⚡ Instalación
 1. Clona el repositorio:
